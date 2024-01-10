@@ -11,7 +11,7 @@ module.exports = {
       'gradient-x': 'gradient-x 15s ease infinite',
       'gradient-y': 'gradient-y 15s ease infinite',
       'gradient-xy': 'gradient-xy 15s ease infinite',
-      'slide': 'slide 2.5s linear infinite',
+      'slide': 'slide 3s ease-in-out infinite',
       'bounce': 'bounce 1s infinite',
     },
     'keyframes': {
